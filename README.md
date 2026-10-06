@@ -29,6 +29,7 @@ antes e depois, não só confiar que a linha mudou.
 | [03](cases/03-webhook-fail-open.md) | Webhook aceitando evento sem assinatura (fail-open) | CWE-347 | Alta |
 | [04](cases/04-null-derruba-dedup.md) | `NULL` anulando uma trava de unicidade (replay/inchaço) | idempotência | Média |
 | [05](cases/05-endpoint-caro-sem-teto.md) | Endpoint caro sem teto de concorrência (DoS) | CWE-400 | Média |
+| [06](cases/06-falso-positivo-sql-dinamico.md) | "SQL dinâmico" que parecia injeção e não era — falso positivo descartado | CWE-89 (descartado) | — |
 
 ## Método
 
