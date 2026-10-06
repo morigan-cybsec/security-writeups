@@ -18,7 +18,7 @@ antes e depois, não só confiar que a linha mudou.
   ou host. Nenhuma informação que identifique o sistema ou permita alcançá-lo.
 - **Só o que já foi corrigido.** Publico um caso depois que a correção está em
   produção e verificada. Falhas ainda em aberto ficam retidas até o conserto —
-  divulgar detalhe de buraco vivo num sistema em uso é irresponsável.
+  divulgar detalhe de falhas ativas num sistema em uso é irresponsável.
 
 ## Casos
 
